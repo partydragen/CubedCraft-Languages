@@ -1,0 +1,75 @@
+core:
+  noperm: '&cDu hast keine Berechtigung um diesen Befehl zu verwenden.'
+glist:
+  playerlistcolor: '&f'
+  format: '&a%server% &e(%players%): &f%playerlist%'
+  total: '&fEs sind &b%totalnum% &fspieler derzeit online!'
+find:
+  usage: '&cBitte Benutz /find {name}'
+  offline: '&cDieser Spieler ist nicht online!'
+  message: '&a%player% &7ist online auf Server &a%server%&7!'
+language:
+  usage: '&cBitte Benutz /language {Sprache}'
+  already: '&cDu hast diese Sprache schon installiert!'
+  changed: '&aDu hast deine Sprache zu &b%language%&a geändert!'
+  wait: '&cDu musst &b%seconds% &cSekunden warten bevor du /language wieder verwenden kannst.'
+points: '&eDu hast &b%points% &ePunkte!'
+discord:
+  alreadylinked: '&cDein Account ist schon mit Discord verbunden!'
+  message:
+  - '&6Dein persönlicher code ist: &b%code%&6!'
+  - '&6Benutz &b!Benutz %code% &6in Discord um deinen Account zu verbinden!'
+msg:
+  wrongusage: '&cBitte benutz /msg {Spieler} {Nachricht}!'
+  offlinetarget: '&cDieser Spieler ist nicht Online!'
+  receiving: '&8[&6%player% &c» &6Ich&8] &r%message%'
+  sending: '&8[&6Ich &c» &6%player%&8] &r%message%'
+reply:
+  wrongusage: '&cBitte benutz /reply {Nachricht}!'
+  notarget: '&cDu hast keinen dem du Antworten kannst!'
+  offlinetarget: '&cDieser Spieler ist nicht mehr Online!'
+  receiving: '&8[&6%player% &c» &6Ich&8] &r%message%'
+  sending: '&8[&6Ich &c» &6%player%&8] &r%message%'
+spy:
+  wrongusage: '&cBitte benutz /spy!'
+  enabled: '&6Dein Socialspy wurde &bangeschaltet&6!'
+  disabled: '&6Dein Socialspy wurde &bausgeschaltet&6!'
+  message: '&8[&b%server%&8] [&b%sender% &c» &b%receiver%&8] &r%message%'
+antispam:
+  message: '&cDu musst %time% Sekunden warten bevor du wieder reden kannst.'
+  norepeat: '&cBitte wiederhol dich nicht!'
+staffchat:
+  format: '&4[&9%server%&4] &6%player%&c: %message%'
+  enabled: '&2Du redest nun im Staff chat!'
+  disabled: '&2Du redet nun nicht mehr im Staff chat!'
+antiad:
+  message: '&cBitte mach keine Werbung!'
+  staffmessage:
+  - '&b%name% &6hat versucht auf Server &b%server%&6 zu werben, aber wurde Blockiert!'
+  - '&bMessage: &6%message%'
+antiswear:
+  message: '&cBitte nicht Beleidigen!'
+  staffmessage:
+  - '&b%name% &6Hat versucht auf Server &b%server%&6 beleidigen, aber wurde Blockiert!'
+  - '&bMessage: &6%message%'
+vote:
+  links:
+  - '&a&l> &f&lVote:&a&l http://cubedcraft.com/vote/'
+  - '&a&l> &f&lVote:&a&l http://cubedcraft.com/vote/'
+  text: '&a&l> &f&lVote:&a&l http://cubedcraft.com/vote/'
+  header: '&7&l&m========================================='
+  footer: '&7&l&m========================================='
+store:
+  message:
+  - '&a&l> &f&lStore:&a&l http://store.cubedcraft.com/'
+  - '&a&l> &f&lStore:&a&l http://store.cubedcraft.com/'
+  text: '&a&l> &f&lStore:&a&l http://store.cubedcraft.com/'
+  header: '&7&l&m========================================='
+  footer: '&7&l&m========================================='
+rules:
+  message:
+  - '&a&l> &f&lRules:&a&l http://cubedcraft.com/rules/'
+  - '&a&l> &f&lRules:&a&l http://cubedcraft.com/rules/'
+  text: '&a&l> &f&lRules:&a&l http://cubedcraft.com/rules/'
+  header: '&7&l&m========================================='
+  footer: '&7&l&m========================================='
