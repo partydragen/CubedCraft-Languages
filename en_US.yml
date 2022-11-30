@@ -1,5 +1,5 @@
 core:
-  noperm: '&cYou don''t have the permission to use this command!'
+  noperm: "&cYou don't have the permission to use this command!"
 glist:
   playerlistcolor: '&f'
   format: '&a%server% &e(%players%): &f%playerlist%'
